@@ -30,6 +30,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-CC0000?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-9B0000?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-006400?style=for-the-badge&logo=owasp&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-005C9E?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### OSINT & Recon Tools
