@@ -8,7 +8,7 @@
   <a href="https://github.com/aakash-narkhede" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:aakashnarkhede10@gmail.com">
+  <a href="mailto:aakash.narkhede.5656@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
