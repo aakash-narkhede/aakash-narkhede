@@ -21,7 +21,7 @@
 - Learning **Advanced Pentesting**, **OSINT Techniques**, and **Red Teaming**  
 - All my projects are available at [github.com/aakashnarkhede](https://github.com/aakash-narkhede)  
 - **Ask me about**: Red Teaming, Penetration Testing, OSINT, and Cybersecurity Tools  
-- **How to reach me**: aakashnarkhede10@gmail.com
+- **How to reach me**: aakash.narkhede.5656@gmail.com
 
 
 ## 🛠️ Tech Stack
